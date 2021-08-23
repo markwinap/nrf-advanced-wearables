@@ -1,2 +1,0 @@
-# nrf-advanced-wearables
- 
